@@ -1,1 +1,2 @@
-# Soothe-Refresh-Smart-Lamp-
+# Soothe&Refresh Smart Lamp
+Instructable project
